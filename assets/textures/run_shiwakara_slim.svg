@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" shape-rendering="crispEdges">
+<!-- Run Shiwakara slim Minecraft skin texture -->
+<!-- Head base: front, sides, top, bottom, back -->
+<path fill="#d7a582" d="M8 8h8v8H8zM0 8h8v8H0zM16 8h8v8h-8zM8 0h8v8H8zM16 0h8v8h-8zM24 8h8v8h-8z"/>
+<path fill="#f0c09b" d="M9 10h6v5H9zM1 10h6v5H1z"/>
+<path fill="#b97862" d="M16 10h7v6h-7zM24 10h7v6h-7zM10 0h6v2h-6z"/>
+<!-- face shadow and features -->
+<path fill="#c58970" d="M8 14h8v2H8zM10 16h4v1h-4z"/>
+<path fill="#252338" d="M9 11h2v2H9zM13 11h2v2h-2zM11 14h2v1h-2z"/>
+<path fill="#67d6d0" d="M9 11h1v1H9zM13 11h1v1h-1z"/>
+<path fill="#8d4d59" d="M11 15h3v1h-3z"/>
+<!-- hair overlay -->
+<path fill="#171827" d="M8 8h8v2H8zM8 8h2v7H8zM14 8h2v6h-2zM16 8h2v8h-2zM10 8h4v2h-4z"/>
+<path fill="#34324c" d="M9 8h2v3H9zM12 8h2v2h-2zM14 10h2v3h-2zM8 13h2v2H8z"/>
+<path fill="#78627d" d="M10 8h1v2h-1zM13 8h1v1h-1z"/>
+<!-- head outer layer, swept hair and ear pieces -->
+<path fill="#10111d" d="M8 40h8v2H8zM8 42h2v5H8zM14 40h2v6h-2zM16 40h2v8h-2zM9 40h5v1H9z"/>
+<path fill="#403951" d="M9 40h2v3H9zM12 40h2v2h-2zM14 42h1v3h-1z"/>
+<path fill="#d7a582" d="M8 45h2v2H8zM14 45h2v2h-2z"/>
+<!-- body base -->
+<path fill="#252536" d="M20 20h8v12h-8zM16 20h4v12h-4zM28 20h4v12h-4zM32 20h8v12h-8zM20 16h8v4h-8zM20 32h8v4h-8z"/>
+<path fill="#d7a582" d="M21 20h6v4h-6z"/>
+<path fill="#e3b18c" d="M22 20h4v2h-4z"/>
+<path fill="#10111d" d="M20 24h8v8h-8zM32 22h8v10h-8z"/>
+<path fill="#a8324c" d="M21 24h6v8h-6zM29 20h2v12h-2z"/>
+<path fill="#d14457" d="M22 24h2v8h-2z"/>
+<path fill="#54c8c8" d="M26 24h2v3h-2zM21 29h2v2h-2zM32 24h2v2h-2zM36 28h2v2h-2z"/>
+<path fill="#6f253b" d="M24 24h3v2h-3zM24 30h3v2h-3z"/>
+<!-- body overlay jacket and collar -->
+<path fill="#171827" d="M20 36h8v12h-8zM16 36h4v12h-4zM28 36h4v12h-4zM32 36h8v12h-8zM20 32h8v4h-8z"/>
+<path fill="#a8324c" d="M21 36h2v12h-2zM27 36h1v12h-1zM32 38h2v10h-2z"/>
+<path fill="#34324c" d="M23 36h4v2h-4zM34 36h5v2h-5zM34 44h5v2h-5z"/>
+<path fill="#54c8c8" d="M24 38h2v2h-2zM22 44h2v2h-2zM35 40h2v2h-2z"/>
+<!-- right slim arm base -->
+<path fill="#252536" d="M44 20h3v12h-3zM40 20h4v12h-4zM47 20h3v12h-3zM44 16h3v4h-3zM44 32h3v4h-3zM50 20h4v12h-4z"/>
+<path fill="#d7a582" d="M44 29h3v3h-3z"/>
+<path fill="#a8324c" d="M40 20h4v8h-4zM47 20h3v7h-3z"/>
+<path fill="#54c8c8" d="M40 24h2v2h-2zM47 26h2v2h-2z"/>
+<!-- right arm overlay -->
+<path fill="#171827" d="M44 36h3v12h-3zM40 36h4v12h-4zM47 36h3v12h-3zM44 32h3v4h-3zM44 48h3v4h-3zM50 36h4v12h-4z"/>
+<path fill="#a8324c" d="M40 36h4v8h-4zM47 36h3v8h-3z"/>
+<path fill="#54c8c8" d="M40 40h2v2h-2zM47 42h2v2h-2z"/>
+<!-- left slim arm base -->
+<path fill="#252536" d="M36 52h3v12h-3zM32 52h4v12h-4zM39 52h3v12h-3zM36 48h3v4h-3zM36 64h3v0h-3zM42 52h4v12h-4z"/>
+<path fill="#d7a582" d="M36 61h3v3h-3z"/>
+<path fill="#a8324c" d="M32 52h4v8h-4zM39 52h3v7h-3z"/>
+<path fill="#54c8c8" d="M32 56h2v2h-2zM39 58h2v2h-2z"/>
+<!-- left arm overlay -->
+<path fill="#171827" d="M52 52h3v12h-3zM48 52h4v12h-4zM55 52h3v12h-3zM52 48h3v4h-3zM58 52h4v12h-4z"/>
+<path fill="#a8324c" d="M48 52h4v8h-4zM55 52h3v8h-3z"/>
+<path fill="#54c8c8" d="M48 56h2v2h-2zM55 58h2v2h-2z"/>
+<!-- right leg base -->
+<path fill="#171827" d="M4 20h4v12H4zM0 20h4v12H0zM8 20h4v12H8zM12 20h4v12h-4zM4 16h4v4H4zM4 32h4v4H4z"/>
+<path fill="#34324c" d="M4 20h4v5H4zM0 20h3v8H0z"/>
+<path fill="#a8324c" d="M5 25h3v7H5zM9 25h3v7H9z"/>
+<path fill="#54c8c8" d="M5 25h2v2H5z"/>
+<!-- left leg base -->
+<path fill="#171827" d="M20 52h4v12h-4zM16 52h4v12h-4zM24 52h4v12h-4zM28 52h4v12h-4zM20 48h4v4h-4z"/>
+<path fill="#34324c" d="M20 52h4v5h-4zM16 52h3v8h-3z"/>
+<path fill="#a8324c" d="M21 57h3v7h-3zM25 57h3v7h-3z"/>
+<path fill="#54c8c8" d="M21 57h2v2h-2z"/>
+<!-- leg armor overlay -->
+<path fill="#10111d" d="M4 36h4v12H4zM0 36h4v12H0zM8 36h4v12H8zM12 36h4v12h-4zM4 32h4v4H4z"/>
+<path fill="#a8324c" d="M5 36h3v8H5zM9 36h3v8H9z"/>
+<path fill="#54c8c8" d="M5 40h2v2H5zM9 42h2v2H9z"/>
+<path fill="#10111d" d="M20 36h4v12h-4zM16 36h4v12h-4zM24 36h4v12h-4zM28 36h4v12h-4zM20 32h4v4h-4z"/>
+<path fill="#a8324c" d="M21 36h3v8h-3zM25 36h3v8h-3z"/>
+<path fill="#54c8c8" d="M21 40h2v2h-2zM25 42h2v2h-2z"/>
+</svg>
